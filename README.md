@@ -59,7 +59,7 @@
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" />
   <img src="https://img.icons8.com/color/48/android-studio--v3.png" title="Android Studio" />
   <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets" />
-  <img src="https://img.icons8.com/fluency/48/ms-office-2019.png" title="MS Office" />
+<img src="https://img.icons8.com/color/48/office-365.png" title="MS Office" />
 </p>
 
 ---
