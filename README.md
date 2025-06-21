@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Vinay-100lanki/Vinay-100lanki/blob/main/Banner.png" alt="Banner" />
-</p>
+</p>-->
 
 <h1 align="center">Hi there, I'm <span style="color:#4e9af1">Vinay Kumar Solanki</span> 👋</h1>
 <h3 align="center">🚀 Frontend Developer | Passionate Tech Explorer</h3>
